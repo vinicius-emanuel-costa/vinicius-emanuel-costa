@@ -12,10 +12,10 @@
   <a href="mailto:viniciusemanuelcosta@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Vinicius-Costa14">
+  <a href="https://github.com/vinicius-emanuel-costa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Vinicius-Costa14&color=6c5ce7&style=for-the-badge&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=vinicius-emanuel-costa&color=6c5ce7&style=for-the-badge&label=VISITORS"/>
 </p>
 
 ---
@@ -104,38 +104,38 @@ Analista de Infraestrutura focado em **monitoramento, observabilidade e redes**.
 <p align="center"><em>Projetos construidos e utilizados em ambientes reais de producao e laboratorio.</em></p>
 
 <p align="center">
-  <a href="https://github.com/Vinicius-Costa14/monitoring-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=monitoring-lab&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/monitoring-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=monitoring-lab&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
-  <a href="https://github.com/Vinicius-Costa14/alert-enricher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=alert-enricher&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vinicius-Costa14/vecgate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=vecgate&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
-  </a>
-  <a href="https://github.com/Vinicius-Costa14/wireguard-mesh-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=wireguard-mesh-lab&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/alert-enricher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=alert-enricher&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vinicius-Costa14/docker-images">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=docker-images&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/vecgate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=vecgate&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
-  <a href="https://github.com/Vinicius-Costa14/incident-response-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=incident-response-bot&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/wireguard-mesh-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=wireguard-mesh-lab&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vinicius-Costa14/gitops-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=gitops-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/docker-images">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=docker-images&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
-  <a href="https://github.com/Vinicius-Costa14/devops-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Costa14&repo=devops-scripts&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  <a href="https://github.com/vinicius-emanuel-costa/incident-response-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=incident-response-bot&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vinicius-emanuel-costa/gitops-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=gitops-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
+  </a>
+  <a href="https://github.com/vinicius-emanuel-costa/devops-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-emanuel-costa&repo=devops-scripts&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400"/>
   </a>
 </p>
 
@@ -144,21 +144,21 @@ Analista de Infraestrutura focado em **monitoramento, observabilidade e redes**.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Costa14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&locale=pt-br" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Vinicius-Costa14&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-emanuel-costa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&locale=pt-br" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=vinicius-emanuel-costa&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Costa14&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6347&area=true&area_color=58A6FF" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-emanuel-costa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6347&area=true&area_color=58A6FF" width="98%"/>
 </p>
 
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-emanuel-costa/vinicius-emanuel-costa/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-emanuel-costa/vinicius-emanuel-costa/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vinicius-emanuel-costa/vinicius-emanuel-costa/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
