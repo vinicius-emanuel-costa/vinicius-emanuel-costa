@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/vinicius-emanuel-costa/">
+<a href="https://www.linkedin.com/in/vinicius-emanuel-costa-501a50299/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/_viiniciuscosta_">
