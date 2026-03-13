@@ -162,6 +162,72 @@ projetos_open_source: 8
 
 <br>
 
+## Certificados
+
+<div align="center">
+<em>Emitidos pela plataforma Estudonauta / Curso em Video</em>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://www.estudonauta.com/validar/?code=2EF8-B1B6-7">
+<img src="python3-fundamentos-40h.png" alt="Python 3 - Fundamentos" width="100%"/>
+</a>
+<br>
+<strong>Python 3 - Mundo 1: Fundamentos</strong><br>
+<code>40h</code> · Emitido 08/07/2025<br>
+Codigo: <code>2EF8-B1B6-7</code> · <a href="https://www.estudonauta.com/validar/?code=2EF8-B1B6-7">Validar</a>
+</td>
+<td width="50%">
+<a href="https://www.estudonauta.com/validar/?code=2EF8-B248-4">
+<img src="python3-estruturas-controle-40h.png" alt="Python 3 - Estruturas de Controle" width="100%"/>
+</a>
+<br>
+<strong>Python 3 - Mundo 2: Estruturas de Controle</strong><br>
+<code>40h</code> · Emitido 14/07/2025<br>
+Codigo: <code>2EF8-B248-4</code> · <a href="https://www.estudonauta.com/validar/?code=2EF8-B248-4">Validar</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://www.estudonauta.com/validar/?code=2EF8-1E731-4">
+<img src="git-github-20h.png" alt="Git e GitHub" width="100%"/>
+</a>
+<br>
+<strong>Git e GitHub</strong><br>
+<code>20h</code> · Emitido 17/09/2025<br>
+Codigo: <code>2EF8-1E731-4</code> · <a href="https://www.estudonauta.com/validar/?code=2EF8-1E731-4">Validar</a>
+</td>
+<td width="50%">
+<a href="https://www.estudonauta.com/validar/?code=2EF8-B79C-2">
+<img src="linux-primeiros-passos-20h.png" alt="Linux - Primeiros Passos" width="100%"/>
+</a>
+<br>
+<strong>Linux - Primeiros Passos</strong><br>
+<code>20h</code> · Emitido 03/09/2025<br>
+Codigo: <code>2EF8-B79C-2</code> · <a href="https://www.estudonauta.com/validar/?code=2EF8-B79C-2">Validar</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://www.estudonauta.com/validar/?code=2EF8-AD83-9">
+<img src="programacao-basica-20h.png" alt="Algoritmos e Logica de Programacao" width="100%"/>
+</a>
+<br>
+<strong>Algoritmos e Logica de Programacao</strong><br>
+<code>20h</code> · Emitido 13/10/2025<br>
+Codigo: <code>2EF8-AD83-9</code> · <a href="https://www.estudonauta.com/validar/?code=2EF8-AD83-9">Validar</a>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+<br>
+
 ## GitHub Stats
 
 <div align="center">
